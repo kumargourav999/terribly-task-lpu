@@ -1,0 +1,130 @@
+.btn-courses{
+  float:right;
+  background-color: yellow;
+  color:black;
+  border-radius: 4px;
+  height:35px;
+  margin-top: 5px;
+  margin-right: 20px;
+}
+.header{
+  background-color: black;
+  height:50px;
+  
+}
+.spam{
+  color:white;
+  
+  
+}
+.spam1{
+  color:white;
+  
+  position: absolute;
+  margin-top: 13px;
+  
+  
+}
+
+.img{
+  width:100%;
+  height:200px;
+}
+.profile-img{
+  border-radius: 100%;
+  width:200px;
+  height:180px;
+  position: absolute;
+  top: 180px;
+  left: 30px;
+  border: 1px solid #000000;
+}
+.name{
+  
+  position: absolute;
+  top: 230px;
+  left: 270px;
+}
+.btn-profile{
+  margin: 7px;
+  border-radius: 5px;
+  width:70px;
+  height: 30px;
+  border: 2px solid grey;
+  color: grey;
+  background-color: white;
+}
+.btn-profil1{
+  font-size: 0.6rem;
+  position: absolute;
+  top: 110px;
+  color: grey;
+  left: 25px;
+  
+}
+.btn-profil2{
+  font-size: 0.6rem;
+  color: grey;
+  position: absolute;
+  top: 110px;
+  left: 110px;
+}
+.ceo{
+  color: grey;
+  position: absolute;
+  top: 350px;
+  left: 50px;
+  font-size: 18px;
+  
+}
+a{
+  text-decoration: none;
+  position: absolute;
+  top: 44px;
+  
+  font-size: 18px;
+
+  font-size: 12px;
+}
+.icon{
+  margin-left: 30px;
+  margin-top: 20px;
+
+}
+.sp{
+ position: relative;
+ margin-top: 2px;
+}
+.h1{
+  position: absolute;
+  top: 500px;
+  left: 20px;
+  color:rgb(0, 76, 255)
+}
+.post1{
+  position: absolute;
+  top: 650px;
+  left: 20px;
+}
+.post2{
+  position: absolute;
+  top: 850px;
+  left: 20px;
+}
+.post3{
+  position: absolute;
+  top: 1100px;
+  left: 20px;
+}
+.spam3{
+  color: rgb(0, 76, 255);
+  font-weight: bold;
+}
+.icon1{
+  position: absolute;
+  left: 800px;
+  top:30px;
+}
+hr{
+width: 1500px;
+}
